@@ -1,0 +1,2 @@
+Config EXAMPLE
+tristate "Just a EXAMPLE" hello
